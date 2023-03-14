@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["StakeSubsidyV1","StakingPoolV1","SuiSystemStateInnerV1","SystemParametersV1","ValidatorMetadataV1","ValidatorSetV1","ValidatorV1","VerifiedValidatorMetadataV1"]};

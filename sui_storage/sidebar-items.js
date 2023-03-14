@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["default_db_options"],"mod":["indexes","mutex_table","object_store","write_ahead_log","write_path_pending_tx_log"]};
